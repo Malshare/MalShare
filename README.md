@@ -1,5 +1,3 @@
-# MalShare
-
 <img src="/.meta/logo_header.png" width="450">
 
 ## This GitHub repository is for usage guides and reporting bugs / issues / feature requests. 
