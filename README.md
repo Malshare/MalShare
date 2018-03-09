@@ -7,7 +7,7 @@ The MalShare Project is a collaborative effort to create a community driven publ
 
 ## Authors
 
-* **Silas Cuter** - [silascutler](https://github.com/silascutler)
+* **Silas Cutler** - [silascutler](https://github.com/silascutler)
 
 See also the list of [contributors](https://github.com/Malshare/MalShare/contributors) who participated in this project.
 
