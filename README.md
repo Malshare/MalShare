@@ -2,6 +2,9 @@
 
 ## This GitHub repository is for usage guides and reporting bugs / issues / feature requests. 
 
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MJKFDZUPFYSZA)
+
+
 ## About
 The MalShare Project is a collaborative effort to create a community driven public malware repository that works to build additional tools to benefit the security community at large. 
 
